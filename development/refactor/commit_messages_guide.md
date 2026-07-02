@@ -1,4 +1,3 @@
-````markdown
 # 📝 Commit Message Guide
 
 A good commit message should answer:
@@ -478,4 +477,3 @@ Refs #89
 | build | Build system |
 | ci | CI/CD |
 | revert | Undo previous commit |
-````
